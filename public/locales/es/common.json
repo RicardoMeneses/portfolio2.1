@@ -1,0 +1,67 @@
+{
+  "home": {
+    "hello": "!Hola, Mundo!",
+    "iam": "Soy",
+    "developer": "Desarrollador Full Stack",
+    "download": "Descargar CV"
+  },
+  "header": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "resume": "Resumen"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "developer": "Desarrollador Full Stack",
+    "me": "Desarrollador Full Stack con más de cuatro años de experiencia, especializado en la creación de soluciones web y móviles utilizando un amplio espectro de tecnologías de vanguardia. Mi enfoque principal abarca lenguajes y frameworks como ReactJS, React Native, NextJs, VueJS, NuxtJs, NodeJS, y TypeScript. He trabajado en el desarrollo de diversos proyectos, incluyendo plataformas de comercio electrónico, portafolios personales, y páginas web corporativas. Mi experiencia se extiende al ámbito móvil, habiendo desarrollado una aplicación utilizando React Native. Además, poseo conocimientos profundos en el uso de herramientas esenciales como AWS, Shopify, WordPress, Bootstrap, MongoDB, Github, HTML5, CSS3, Tailwind CSS, NestJs, Bitbucket, Remix, Prisma, Chakra UI, VS Code, Expo y Docker, demostrando así mi versatilidad y adaptabilidad a entornos tecnológicos diversos. Me caracterizo por mantenerme actualizado con las últimas tendencias en programación, continuamente ampliando mis habilidades a través de plataformas educativas como Udemy. Mi sólido compromiso con el aprendizaje continuo y el crecimiento profesional me posiciona como un desarrollador altamente motivado y preparado para enfrentar desafíos complejos en el desarrollo de software.",
+    "interests": "Intereses y Hobbies",
+    "programming": "Programación",
+    "pingPong": "Tenis de Mesa",
+    "travel": "Viajar",
+    "games": "Vídeo juegos",
+    "read": "Leer",
+    "music": "Música",
+    "soccer": "Fútbol",
+    "cinema": "Cine"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "raccoon": "Sitio Web responsivo de la empresa RaccoonStudio, el sitio permite ver alguno de los proyectos realizados.",
+    "oleum": "Ecommerce completamente personalizado, responsivo y diseñado desde cero. Se trabajó con un frontstore personalizado con tecnología reactiva, utilizando shopify solo como motoro para realizar el checkout y administrar productos. Integración de SEO, Analytics, Suscripción con conexión a mailchimp.",
+    "playeat": "Aplicación móvil para Android y iOS, desarrollada con React Native, Expo. La aplicación permite a los usuarios realizar reservaciones, ver el menú y pagar con tarjeta de crédito o débito utilizando stripe.",
+    "fahcal": "Sitio web responsivo para la empresa Fahcal, informativo y de contacto, el sitio permite ver los servicios que ofrece la empresa y contactarlos.",
+    "2rivers": "Sitio web responsivo de deportes extremos, el sitio permite ver los servicios que ofrece así como realizar reservaciones, mostrar información de los usuarios como de los guías.",
+    "all": "Ver todos",
+    "see": "Ver proyecto"
+  },
+  "resume": {
+    "title": "Resumen",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "work": "Laboral",
+    "engineer": "Ing. en Sistemas Computacionales",
+    "red": "Cinta roja en diseño de arquitecturas para crear aplicaciones Web",
+    "black": "Cinta negra en diseño de arquitecturas para crear aplicaciones Web",
+    "directo": "Desarrollador Backend",
+    "directoDescription": "Administro de implementaciones locales con Docker Swarm en múltiples clústeres. Creación de microservicios RESTful con Rabbitmq y redis. Mantenimiento a plataforma con Nestjs para gestionar millones de llamadas todos los días.",
+    "directoDate": "May 2023 - Presente",
+    "seo": "Becario SEO",
+    "seoDescription": "Posicionamiento WEB, Desarrollo Web, Revisión y corrección de metadatos.",
+    "seoDate": "Oct 2018 - Dic 2018",
+    "raccoon": "Desarrollo y soporte de múltiples sitios web y plataformas de comercio electrónico. Servicios en la nube de AWS integrados con éxito para satisfacer necesidades de aplicaciones como: Envío de notificaciones y correos electrónicos con SNS, SES. Gestión y administración de servidores EC2. Uso de S3 para la administración de recursos. Route 53, sistema de nombres de dominio (DNS). Se implementó una canalización de CI/CD mediante Bitbucket Pipelines para automatizar la compilación y la implementación de aplicaciones. Notificaciones de Slack integradas para recibir alertas sobre el estado de la implementación y cualquier problema que pueda surgir.",
+    "raccoonDate": "Feb 2019 - Dic 2022",
+    "freelance": "Desarrollador Autónomo",
+    "freelanceDescription": "Colabore en el desarrollo de un sitio para deportes extremos usando: NestJS, ReactJS, NextJS, soporte multilingüe usando i18n, uso de múltiples monedas para mostrar dependiendo del país. Desarrollo de sitio personal usando: ReactJS, NextJS , Tailwind CSS, soporte multilingüe con i18n.",
+    "freelanceDate": "Dic 2022 - Feb 2023",
+    "softSkills": "Habilidades blandas",
+    "communication": "Comunicación",
+    "teamwork": "Trabajo en equipo",
+    "adaptability": "Adaptabilidad",
+    "leadership": "Liderazgo",
+    "technicalSkills": "Habilidades Técnicas"
+  },
+  "footer": {
+    "made": "Diseñado y desarrollado por"
+  }
+}
